@@ -1,0 +1,26 @@
+com/example/utsproject_10118389/Model/TaskModel.java
+ com.example.utsproject_10118389.Model.TaskModel
+com/example/utsproject_10118389/Utils/DatabaseHelper.java
+ com.example.utsproject_10118389.Utils.DatabaseHelper
+com/example/utsproject_10118389/RecyclerViewTouchHelper.java
+ com.example.utsproject_10118389.RecyclerViewTouchHelper
+ com.example.utsproject_10118389.RecyclerViewTouchHelper$1
+ com.example.utsproject_10118389.RecyclerViewTouchHelper$2
+com/example/utsproject_10118389/OnDialogListener.java
+ com.example.utsproject_10118389.OnDialogListener
+com/example/utsproject_10118389/Adapter/TaskAdapter.java
+ com.example.utsproject_10118389.Adapter.TaskAdapter
+ com.example.utsproject_10118389.Adapter.TaskAdapter$1
+ com.example.utsproject_10118389.Adapter.TaskAdapter$MyViewHolder
+com/example/utsproject_10118389/MainActivity.java
+ com.example.utsproject_10118389.MainActivity
+ com.example.utsproject_10118389.MainActivity$1
+com/example/utsproject_10118389/BuildConfig.java
+ com.example.utsproject_10118389.BuildConfig
+com/example/utsproject_10118389/AddNewTask.java
+ com.example.utsproject_10118389.AddNewTask
+ com.example.utsproject_10118389.AddNewTask$1
+ com.example.utsproject_10118389.AddNewTask$2
+com/example/utsproject_10118389/SplashActivity.java
+ com.example.utsproject_10118389.SplashActivity
+ com.example.utsproject_10118389.SplashActivity$1
